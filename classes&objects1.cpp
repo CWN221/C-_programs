@@ -1,7 +1,7 @@
 /*
 	Author: CWN221
 	Date: 17/10/2024
-	Description: Using classes and objects to calculate product of 3 integers
+	Description: Using classes and objects to calculate volume and surface area
 	RegNo: BSE-01-0032/2024
 */
 
